@@ -17,3 +17,6 @@ HopeRF offers a wide range of products across different categories. Our wireless
 - 2.4GHz
 - Matter
 - Wi-Fi
+
+## SDK Release
+For the RFPDK, HopeDuino tools can be found in [Releases](https://github.com/HOPE-MICROELECTRONICS/Product_Portfolio/releases)
